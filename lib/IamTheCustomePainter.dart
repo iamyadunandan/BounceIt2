@@ -1,8 +1,6 @@
 import 'dart:math';
 import 'dart:ui';
-import 'dart:developer' as Log;
 
-import 'package:daynight/IamTheDrawing.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 

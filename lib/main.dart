@@ -1,9 +1,6 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 
 import 'IamTheDrawing.dart';
-import 'IamTheCustomePainter.dart';
 
 void main() => runApp(MyApp());
 
