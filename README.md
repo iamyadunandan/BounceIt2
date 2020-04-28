@@ -5,5 +5,5 @@ You can check out Implementation code above. Thank you.
 
 The fallowing has been rendered using only the Flutter, No images or any bitmaps were used, Take look at code above, Take a look at looks below.
 
-![](https://github.com/iamyadunandan/BounceIt2/blob/master/reocrd.gif)
+![](https://github.com/iamyadunandan/BounceIt2/blob/master/record.gif)
 
